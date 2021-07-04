@@ -1,0 +1,6 @@
+Tensorflow
+numpy
+scipy
+open3d
+matplotlib
+tqdm
