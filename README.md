@@ -9,13 +9,13 @@ First run the Preprocess file to normalize data and simplify the protein shapes.
 
 
 # How to run the code
-**Project leaders:
+**Project leaders:**
 
 > * Halim Benhabiles, JUNIA-IEMN CNRS halim.benhabiles@junia.com
 > * Karim Hammoudi, Université de Haute-Alsace, IRIMAS, karim.hammoudi@uha.fr
 Note: project leaders equally contributed to this work.
 
-**Contributors:
+**Contributors:**
 
 Halim Benhabiles, Yncrea Hauts-de-France, IEMN Lille, halim.benhabiles@yncrea.fr
 Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
