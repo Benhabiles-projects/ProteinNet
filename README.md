@@ -4,10 +4,10 @@ Deep learning based protein characterization from 3D point clouds.
 This project has been developed in the frame of the SHREC 2021 contest http://shrec2021.drugdesign.fr/. It consists of proposing approaches for indexing proteins from 3d shapes in the form of point cloud and associated metadata. The developed approach exploits deep learning techniques to characterize protein shape. In particular, the approach includes a data normalization module by realigning the 3D coordinates of the proteins towards optimizing indexing performances. 
 
 
-# How to run the code
+# How to use the code?
 > * Download the dataset (queries_ply_shape.tar.gz + ply_shape.tar.gz) from the contest website and unzip it.
-> * Run the "Preprocess.pynb" file to normalize data and simplify the protein shapes.
-> * Run the "ProteinNetModel.pynb" file to characterize proteins and produce the dissimilarity matrix.
+> * Run the "Preprocess.ipynb" file to normalize data and simplify the protein shapes.
+> * Run the "ProteinNetModel.ipynb" file to characterize proteins and produce the dissimilarity matrix.
 
 Note: code can be run cell by cell using google collab plateform for example.
 
