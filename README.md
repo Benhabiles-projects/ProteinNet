@@ -5,8 +5,9 @@ This project has been developed in the frame of the SHREC 2021 contest http://sh
 
 
 # How to run the code
+> * Download the dataset (queries_ply_shape.tar.gz + ply_shape.tar.gz) from contest website and unzip it (http://shrec2021.drugdesign.fr/).
 > * Run the Preprocess file to normalize data and simplify the protein shapes.
-> * Run the ProteinNet file to characterize proteins and produce the dissimilarity matrix.
+> * Run the ProteinNetModel file to characterize proteins and produce the dissimilarity matrix.
 
 
 # Team
