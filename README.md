@@ -8,5 +8,16 @@ This project has been developed in the frame of the SHREC 2021 contest http://sh
 First run the Preprocess file to normalize data and simplify the protein shapes. Then run the ProteinNet file to characterize proteins and produce the dissimilarity matrix.
 
 
+# How to run the code
+Project leaders:
 
+> * Halim Benhabiles, ESIGELEC/IRSEEM, adnane.cabani@esigelec.fr
+> * Karim Hammoudi, Université de Haute-Alsace, IRIMAS, karim.hammoudi@uha.fr
+Note: project leaders equally contributed to this work.
+
+Contributors:
+
+Halim Benhabiles, Yncrea Hauts-de-France, IEMN Lille, halim.benhabiles@yncrea.fr
+Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
+Junhao Cao, Internship student at ESIGELEC
 
