@@ -9,7 +9,9 @@ This project has been developed in the frame of the SHREC 2021 contest http://sh
 > * Run the "Preprocess.ipynb" file to normalize data and simplify the protein shapes.
 > * Run the "ProteinNetModel.ipynb" file to characterize proteins and produce the dissimilarity matrix.
 
-Note: code can be run cell by cell using Google Colab plateform for example.
+**Note:**
+> * Code can be run cell by cell using Google Colab plateform for example. 
+> * External codes that have been used in this project are referenced by a comment in the head of concerned cells.
 
 
 # Team
