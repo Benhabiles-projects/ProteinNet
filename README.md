@@ -3,7 +3,7 @@ Deep learning based protein characterization from 3D point clouds.
 
 This project has been developed in the frame of the SHREC 2021 contest http://shrec2021.drugdesign.fr/. It consists of proposing approaches for indexing proteins from 3d shapes in the form of point cloud and associated metadata. The developed approach exploits deep learning techniques to characterize protein shape. In particular, the approach includes a data normalization module by realigning the 3D coordinates of the proteins towards optimizing indexing performances. 
 
-![proteinnet](https://user-images.githubusercontent.com/86927146/161537902-289fe596-29c7-4c22-be8e-3c93a9ae0d4e.png)
+![proteinnet](https://user-images.githubusercontent.com/86927146/161537902-289fe596-29c7-4c22-be8e-3c93a9ae0d4e.png) *Fig. 1 ProteinNet deep architecture for protein point cloud transformation into canonical representation. Step (1): affine transformation matrix estimation. Step (2): protein point cloud transformation using the estimated affine matrix. Step (3): similarity calculation between the original protein point cloud (the input) and its transformed point cloud. Step (4): cosine similarity loss calculation between the original input protein point cloud and its transformation; and back–propagation over the network to optimize the estimation of the affine transformation matrix. (first published in [1]).*
 
 # How to use the code?
 **Steps:**
