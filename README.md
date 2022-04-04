@@ -29,4 +29,6 @@ Note: code has been developed by Halim Benhabiles.
 > * Feryal Windal, JUNIA, IEMN CNRS Lille, feryal.windal@junia.com
 > * Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
 
+# How to cite this work?
 
+[1] Langenfeld, F., Aderinwale, T., Christoffer, C., Shin, W. H., Terashi, G., Wang, X., Kihara, D., Benhabiles, H. et al. Surface-based protein domains retrieval methods from a SHREC2021 challenge. Journal of Molecular Graphics and Modelling, Elsevier (2022). https://doi.org/10.1016/j.jmgm.2021.108103
